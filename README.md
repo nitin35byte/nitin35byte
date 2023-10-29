@@ -1,7 +1,7 @@
 <h1 align="center">Hello World</h1>
 <h1 align="center">Hi 👋, I'm Nitin</h1>
 
-<h3 align="center">I’m currently working at Protiviti Consultancy as a Senior Quality Analyst Learning</h3>
+<h3 align="center">I’m currently working at Protiviti Consultancy as a Senior Quality Analyst Engineer</h3>
 
 
 - 🌱 I’m currently learning **Data Science**
